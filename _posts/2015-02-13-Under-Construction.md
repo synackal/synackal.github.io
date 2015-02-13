@@ -1,7 +1,7 @@
 ---
 layout: page
 published: true
-comments: true
+comments: false
 ---
 
 Test, test, test...
