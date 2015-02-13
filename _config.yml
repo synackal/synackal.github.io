@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Michael Van Milligan
+tagline:          'Nonarchist'
+url:              http://synackal.github.io
+paginate:         1
+baseurl:          /
+author:
+  name:           Michael Van Milligan
+  url:            https://twitter.com/acksyning
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/synackal/synackal.github.io
+
+pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
